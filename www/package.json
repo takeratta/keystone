@@ -12,7 +12,7 @@
     "gatsby-plugin-google-analytics": "1.0.0-alpha12-alpha.1b1c742b",
     "gatsby-plugin-manifest": "1.0.0-alpha12-alpha.1b1c742b",
     "gatsby-plugin-offline": "1.0.0-alpha12-alpha.1b1c742b",
-    "gatsby-plugin-sharp": "1.0.0-alpha12-alpha.1b1c742b",
+    "gatsby-plugin-sharp": "2.0.5",
     "gatsby-source-filesystem": "1.0.0-alpha12-alpha.1b1c742b",
     "gatsby-typegen-filesystem": "1.0.0-alpha12-alpha.1b1c742b",
     "gatsby-typegen-remark": "1.0.0-alpha12-alpha.1b1c742b",
