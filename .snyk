@@ -1,0 +1,36 @@
+# Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
+version: v1.25.1
+ignore: {}
+# patches apply the minimum changes required to fix a vulnerability
+patch:
+  'npm:extend:20180424':
+    - less-middleware > less > request > extend:
+        patched: '2023-08-31T01:08:21.031Z'
+        id: 'npm:extend:20180424'
+        path: less-middleware > less > request > extend
+    - watchify > chokidar > fsevents > node-pre-gyp > request > extend:
+        patched: '2023-08-31T01:08:21.031Z'
+        id: 'npm:extend:20180424'
+        path: watchify > chokidar > fsevents > node-pre-gyp > request > extend
+  'npm:hoek:20180212':
+    - watchify > chokidar > fsevents > node-pre-gyp > hawk > hoek:
+        patched: '2023-08-31T01:08:21.031Z'
+        id: 'npm:hoek:20180212'
+        path: watchify > chokidar > fsevents > node-pre-gyp > hawk > hoek
+    - watchify > chokidar > fsevents > node-pre-gyp > hawk > boom > hoek:
+        patched: '2023-08-31T01:08:21.031Z'
+        id: 'npm:hoek:20180212'
+        path: watchify > chokidar > fsevents > node-pre-gyp > hawk > boom > hoek
+    - watchify > chokidar > fsevents > node-pre-gyp > hawk > sntp > hoek:
+        patched: '2023-08-31T01:08:21.031Z'
+        id: 'npm:hoek:20180212'
+        path: watchify > chokidar > fsevents > node-pre-gyp > hawk > sntp > hoek
+  'npm:stringstream:20180511':
+    - less-middleware > less > request > stringstream:
+        patched: '2023-08-31T01:08:21.031Z'
+        id: 'npm:stringstream:20180511'
+        path: less-middleware > less > request > stringstream
+    - watchify > chokidar > fsevents > node-pre-gyp > request > stringstream:
+        patched: '2023-08-31T01:08:21.031Z'
+        id: 'npm:stringstream:20180511'
+        path: watchify > chokidar > fsevents > node-pre-gyp > request > stringstream
