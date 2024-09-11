@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "dependencies": {
     "bluebird": "^3.4.7",
-    "gatsby": "1.0.0-alpha12-alpha.1b1c742b",
+    "gatsby": "3.13.0",
     "gatsby-link": "1.0.0-alpha12-alpha.1b1c742b",
     "gatsby-parser-remark": "1.0.0-alpha12-alpha.1b1c742b",
     "gatsby-parser-sharp": "1.0.0-alpha12-alpha.1b1c742b",
