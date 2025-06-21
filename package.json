@@ -16,7 +16,7 @@
     "babel-preset-es2015": "6.24.1",
     "babel-preset-react": "6.24.1",
     "babel-preset-stage-2": "6.24.1",
-    "babelify": "7.3.0",
+    "babelify": "8.0.0",
     "babyparse": "0.4.6",
     "bcrypt-nodejs": "~0.0.3",
     "blacklist": "1.1.4",
