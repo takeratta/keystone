@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "dependencies": {
     "bluebird": "^3.4.7",
-    "gatsby": "1.0.0-alpha12-alpha.1b1c742b",
+    "gatsby": "3.0.0",
     "gatsby-link": "1.0.0-alpha12-alpha.1b1c742b",
     "gatsby-parser-remark": "1.0.0-alpha12-alpha.1b1c742b",
     "gatsby-parser-sharp": "1.0.0-alpha12-alpha.1b1c742b",
@@ -37,7 +37,7 @@
     "typography": "latest",
     "typography-breakpoint-constants": "^0.14.0",
     "typography-plugin-code": "^0.15.2",
-    "unist-util-select": "^1.5.0"
+    "unist-util-select": "^3.0.3"
   },
   "homepage": "keystonejs.com",
   "license": "MIT",
